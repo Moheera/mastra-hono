@@ -5,8 +5,8 @@ This repository demonstrates how to run **Hono** with **Mastra**, enabling agent
 ## Installation 
 
 ```
-- git clone https://github.com/your-username/your-repo.git
-- cd your-repo
+- git clone https://github.com/Moheera/mastra-hono
+- cd mastra-hono
 - npm install
 - add OpenAI key to .env.development
 - npm run dev
